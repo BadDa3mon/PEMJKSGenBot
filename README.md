@@ -54,8 +54,9 @@ via Faker.
 
 ## Commands
 
-- /help
-- /status
+- `/start` - Shows quick usage: how to generate from package name or convert uploaded JKS/keystore.
+- `/help` - Shows detailed usage and required inputs (`alias`, `password`).
+- `/status` - Health check endpoint, currently returns `OK` (bot is running).
 
 ## Logs
 
